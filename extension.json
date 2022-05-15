@@ -9,7 +9,7 @@ metatype: json
     "area": "themes",
     "description": "Saratoga-themed dark mode for Standard Notes",
     "version": "v0.0.1",
-    "url": "https://cdn.jsdelivr.net/gh/Tellervo89/sn-theme-mode-saratoga@master/dist/dist.css",
+    "url": "https://cdn.jsdelivr.net/gh/Tellervo89/sn-dark-theme-saratoga@master/dist/dist.css",
     "download_url": "https://github.com/Tellervo89/sn-dark-theme-saratoga/archive/refs/heads/main.zip",
     "marketing_url": "https://github.com/Tellervo89/sn-dark-theme-saratoga",
     "latest_url": "https://listed.to/p/aVZPODyQWO",
