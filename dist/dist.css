@@ -1,17 +1,17 @@
 :root {
 
-  --background-1: #161616;
-  --background-2: #1c1c1c;
+  --background-1: #1e1e1e;
+  --background-2: #1e1e1e;
 
-  --foreground-1: #fffaf0;
-  --foreground-2: #fffaf0;
-  --foreground-3: #fffaf0;
+  --foreground-1: #e8e8e8;
+  --foreground-2: #e8e8e8;
+  --foreground-3: #e8e8e8;
   
   --highlight-color: #586430;
   --border-color: #050606;
   --pre-color: #586430;
   --neutral-color: #d2d2d2;
-  --danger-color: #643058;
+  --danger-color: #f32013;
   --success-color: #586430;
 
   --content-1: #586430;
