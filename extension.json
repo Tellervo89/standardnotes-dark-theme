@@ -4,7 +4,7 @@ metatype: json
 
   {
     "identifier": "io.github.Tellervo89.standardnotes-dark-theme",
-    "name": "Dark Theme Saratoga",
+    "name": "Dark Theme",
     "content_type": "SN|Theme",
     "area": "themes",
     "description": "Saratoga-themed dark mode for Standard Notes",
