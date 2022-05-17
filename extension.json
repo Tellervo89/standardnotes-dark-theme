@@ -3,17 +3,17 @@ metatype: json
 ---
 
   {
-    "identifier": "io.github.Tellervo89.sn-dark-theme-saratoga",
+    "identifier": "io.github.Tellervo89.standardnotes-dark-theme",
     "name": "Dark Theme Saratoga",
     "content_type": "SN|Theme",
     "area": "themes",
     "description": "Saratoga-themed dark mode for Standard Notes",
     "version": "v0.0.1",
-    "url": "https://cdn.jsdelivr.net/gh/Tellervo89/sn-dark-theme-saratoga@master/dist/dist.css",
-    "download_url": "https://github.com/Tellervo89/sn-dark-theme-saratoga/archive/refs/heads/main.zip",
-    "marketing_url": "https://github.com/Tellervo89/sn-dark-theme-saratoga",
+    "url": "https://cdn.jsdelivr.net/gh/Tellervo89/standardnotes-dark-theme@master/dist/dist.css",
+    "download_url": "https://github.com/Tellervo89/standardnotes-dark-theme/archive/refs/heads/main.zip",
+    "marketing_url": "https://github.com/Tellervo89/standardnotes-dark-theme",
     "latest_url": "https://listed.to/p/WHb9eZEkZr",
-    "thumbnail_url": "https://raw.githubusercontent.com/Tellervo89/sn-dark-theme-saratoga/master/preview.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/Tellervo89/standardnotes-dark-theme/master/preview.png",
     "dock_icon": {
       "type": "circle",
       "background_color": "#121212",
