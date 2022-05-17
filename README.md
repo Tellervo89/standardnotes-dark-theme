@@ -5,4 +5,6 @@ Open "Preferences" in Standard Notes and click "General". Open "Advanced Setting
 
 https://listed.to/p/oGaFam85ah
 
+Please consider subscribing to Standard Notes to help them build and maintain Standard Notes. Their revenue source comes exclusively from customers, not advertisers or venture capitalists.
+
 ![Preview](https://github.com/Tellervo89/sn-dark-theme-saratoga/blob/main/preview.png "Preview")
