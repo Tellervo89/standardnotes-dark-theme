@@ -1,16 +1,16 @@
 :root {
 
-  --background-1: #1e1e1e;
-  --background-2: #1e1e1e;
+  --background-1: #0f1011;
+  --background-2: #0f1011;
 
-  --foreground-1: #e8e8e8;
-  --foreground-2: #e8e8e8;
-  --foreground-3: #e8e8e8;
+  --foreground-1: #eeeeee;
+  --foreground-2: #eeeeee;
+  --foreground-3: #eeeeee;
   
   --highlight-color: #586430;
-  --border-color: #050606;
+  --border-color: #0f1011;
   --pre-color: #586430;
-  --neutral-color: #d2d2d2;
+  --neutral-color: #979797;
   --danger-color: #f32013;
   --success-color: #586430;
 
