@@ -3,7 +3,7 @@
 **Installation:**
 Open "Preferences" in Standard Notes and click "General". Open "Advanced Settings" and enter the following URL as Extension Link, then press Enter:
 
-https://listed.to/p/oGaFam85ah
+https://listed.to/p/FcCmdRqddX
 
 Please consider subscribing to Standard Notes to help them build and maintain Standard Notes. Their revenue source comes exclusively from customers, not advertisers or venture capitalists.
 
