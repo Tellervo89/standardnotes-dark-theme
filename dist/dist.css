@@ -24,15 +24,15 @@
   --sn-stylekit-background-color: #0f1011;
   --sn-stylekit-foreground-color: #a9aabe;
   --sn-stylekit-border-color: #0f1116;
-  --sn-stylekit-contrast-background-color: #272734;
+  --sn-stylekit-contrast-background-color: #000000;
   --sn-stylekit-contrast-foreground-color: #a9aabe;
   --sn-stylekit-contrast-border-color: #0f1116;
   --sn-stylekit-secondary-background-color: var(--sn-stylekit-passive-color-4);
   --sn-stylekit-secondary-foreground-color: #a9aabe;
   --sn-stylekit-secondary-border-color: #20222c;
-  --sn-stylekit-secondary-contrast-background-color: #272734;
+  --sn-stylekit-secondary-contrast-background-color: #000000;
   --sn-stylekit-secondary-contrast-foreground-color: #a9aabe;
-  --sn-stylekit-secondary-contrast-border-color: #272734;
+  --sn-stylekit-secondary-contrast-border-color: #000000;
   --sn-stylekit-paragraph-text-color: var(--foreground-color);
   --sn-stylekit-scrollbar-track-border-color: var(--border-color);
   --sn-stylekit-scrollbar-thumb-color: var(--sn-stylekit-info-color);
